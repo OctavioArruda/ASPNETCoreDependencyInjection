@@ -8,4 +8,3 @@ app needs to work) aren't previously defined in the code
 - Native support to dependency injection
 - It's not a complete container, but performs well in 90% of the cases
 - Part of the infrastructure of ASP.NET Core
-- Look at AspNetCore folder
